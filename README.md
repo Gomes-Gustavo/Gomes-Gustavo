@@ -7,7 +7,7 @@
 
 ## About Me 👨‍💻
 
-Computer Engineering student at Instituto Mauá de Tecnologia with a strong focus on AI and ML. Backend developer at Dev Community Mauá working on real-world applications that solve practical problems.
+Computer Engineering student at Instituto Mauá de Tecnologia with a strong focus on AI and ML. 
 
 ## 🛠️ Technology Stack
 

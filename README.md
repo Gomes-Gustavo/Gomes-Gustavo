@@ -45,14 +45,3 @@ Computer Engineering student at Instituto Mauá de Tecnologia with a strong focu
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%2320232a.svg?style=for-the-badge&logo=NoSQL&logoColor=white)
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gomes-Gustavo&show_icons=true&theme=radical" alt="Gustavo's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomes-Gustavo&layout=compact&theme=radical" alt="Gustavo's top languages" />
-</div>

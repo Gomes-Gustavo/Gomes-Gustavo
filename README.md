@@ -1,4 +1,5 @@
-# Gustavo Gomes | AI & ADVANCED ANALYTICS
+# Gustavo Gomes | AI & Advanced Analytics
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alves-gomes/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gomes-gustavo.github.io/portfolio/)
